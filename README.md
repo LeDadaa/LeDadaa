@@ -4,15 +4,13 @@
 
 **42 Graduate · Software Developer · Algorithms & AI Enthusiast**
 
-I enjoy understanding how software works under the hood, solving challenging problems, and building reliable applications or finding solutions.
-
-</div>
+I enjoy understanding how software works under the hood, solving challenging problems, and building reliable applications.
 
 ## About me
 
 - 🎓 Completed the **42 common core**, building a foundation in C, C++, Unix systems, networking, and software engineering.
 - 🧠 Particularly interested in **algorithms, mathematics, and artificial intelligence**.
-- 🔧 I value clear code, careful debugging, and learning by building and from peer-to-peer.
+- 🔧 I value clear code, careful debugging, and learning through hands-on projects and peer-to-peer collaboration.
 
 ## Technologies
 
@@ -26,15 +24,15 @@ I enjoy understanding how software works under the hood, solving challenging pro
 
 | Project | What I built / explored |
 | :-- | :-- |
-| **[ft_transcendence](https://github.com/LeDadaa/42-projects#web--full-stack)** | A collaborative web application project |
-| **[ft_irc](https://github.com/LeDadaa/42-projects#networking--infrastructure)** | IRC server fundamentals and socket programming |
-| **[Minishell](https://github.com/LeDadaa/42-projects#systems--unix)** | Shell behavior, processes, pipes, and redirections |
-| **[cub3D](https://github.com/LeDadaa/42-projects#graphics)** | A raycasting-based 3D maze renderer |
-| **[push_swap](https://github.com/LeDadaa/42-projects#algorithms--data-structures)** | Sorting under constrained operations |
+| **[ft_transcendence](https://github.com/LeDadaa/Projets-42/tree/main/ft_transcendence)** | A collaborative web application project |
+| **[ft_irc](https://github.com/LeDadaa/Projets-42/tree/main/ft_irc)** | IRC server fundamentals and socket programming |
+| **[Minishell](https://github.com/LeDadaa/Projets-42/tree/main/minishell)** | Shell behavior, processes, pipes, and redirections |
+| **[cub3D](https://github.com/LeDadaa/Projets-42/tree/main/cub3d)** | A raycasting-based 3D maze renderer |
+| **[push_swap](https://github.com/LeDadaa/Projets-42/tree/main/push_swap)** | Sorting under constrained operations |
 
 ## Explore my work
 
-📚 **[All my 42 projects →](https://github.com/LeDadaa/42-projects)**
+📚 **[All my 42 projects →](https://github.com/LeDadaa/Projets-42)**
 
 ## What I'm exploring next
 
