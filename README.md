@@ -12,6 +12,10 @@ I enjoy understanding how software works under the hood, solving challenging pro
 - 🧠 Particularly interested in **algorithms, mathematics, and artificial intelligence**.
 - 🔧 I value clear code, careful debugging, and learning through hands-on projects and peer-to-peer collaboration.
 
+## My Resume
+
+📄 [View my CV (PDF)](./CV_MALCA_Daniel.pdf)
+
 ## Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
