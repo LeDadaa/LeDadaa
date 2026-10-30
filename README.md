@@ -1,4 +1,3 @@
-[README-profile.md](https://github.com/user-attachments/files/34179996/README-profile.md)
 <div align="center">
 
 # Hi, I'm Daniel 👋
