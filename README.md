@@ -4,7 +4,7 @@
 
 **42 Graduate · Software Developer · Algorithms & AI Enthusiast**
 
-I enjoy understanding how software works under the hood, solving challenging problems, and building reliable applications.
+I enjoy understanding how software works under the hood, solving challenging problems, and building reliable applications or finding solutions.
 
 </div>
 
@@ -12,7 +12,7 @@ I enjoy understanding how software works under the hood, solving challenging pro
 
 - 🎓 Completed the **42 common core**, building a foundation in C, C++, Unix systems, networking, and software engineering.
 - 🧠 Particularly interested in **algorithms, mathematics, and artificial intelligence**.
-- 🔧 I value clear code, careful debugging, and learning by building.
+- 🔧 I value clear code, careful debugging, and learning by building and from peer-to-peer.
 
 ## Technologies
 
